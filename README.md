@@ -1,1 +1,1 @@
-# CSCI_570
+# CSCI_570 Algorithms
